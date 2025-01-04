@@ -37,3 +37,49 @@ No special software or dependencies are required, only a modern web browser (e.g
 
 
    
+Example Usage
+Example 1: Basic Find and Replace
+Input Text:
+I love programming! Programming is awesome.
+Find: Programming
+
+Replace: Coding
+
+Result:
+
+I love coding! Coding is awesome.
+Example 2: Case-Sensitive Replace
+Input Text:
+
+I like programming. I really like Programming!
+Find: Programming
+
+Replace: Coding
+
+Result (with Case-Sensitive option enabled):
+
+I like programming. I really like Coding!
+Example 3: Case-Insensitive Replace
+Input Text:
+
+I love programming. I love Programming!
+Find: programming
+
+Replace: coding
+
+Result (with Case-Insensitive option enabled):
+
+I love coding. I love coding!
+Example 4: Replace Multiple Instances
+Input Text:
+
+The quick brown fox jumps over the lazy dog. The fox is fast!
+Find: fox
+
+Replace: cat
+
+Result:
+
+The quick brown cat jumps over the lazy dog. The cat is fast!
+
+
