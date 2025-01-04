@@ -38,6 +38,7 @@ No special software or dependencies are required, only a modern web browser (e.g
 
    
 Example Usage
+
 Example 1: Basic Find and Replace
 Input Text:
 I love programming! Programming is awesome.
