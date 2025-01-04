@@ -31,3 +31,9 @@ No special software or dependencies are required, only a modern web browser (e.g
    If you have Git installed, you can clone the repository by running the following command in your terminal:
    ```bash
    git clone https://github.com/Diva-7/Simple-Find-Replace-Tool.git
+2. **Navigate to the project directory: After cloning or extracting, go to the project folder
+     cd Simple-Find-Replace-Tool
+3.  **Open the index.html file: To open the project in your browser, you can double-click on the index.html file, or if you're using the terminal, you can open it directly with with command **"open index.html"**
+
+
+   
